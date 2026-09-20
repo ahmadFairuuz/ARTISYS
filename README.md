@@ -1,6 +1,6 @@
 # ARTISYS — System Management & Asset Tracking
 
-**ARTISYS** ([Masukkan Kepanjangan jika ada]) adalah sistem manajemen internal yang dikembangkan untuk **Kejaksaan Tinggi Lampung**. Aplikasi ini dirancang untuk mempermudah pengelolaan, pemantauan, dan *routing* berkas perkara serta pencatatan barang bukti/sitaan secara terintegrasi dan presisi per item.
+**ARTISYS** (Asset Recovery Tracking Integrated System) adalah sistem manajemen internal yang dikembangkan untuk **Divisi Aset dan Pemulihan, Kejaksaan Tinggi Lampung**. Aplikasi ini dirancang untuk mempermudah pengelolaan, pemantauan, dan *routing* berkas perkara serta pencatatan barang bukti/sitaan secara terintegrasi dan presisi per item.
 
 ---
 
@@ -26,21 +26,3 @@
   - `simplesoftwareio/simple-qrcode` — Penjana kode QR
   - `laravel/sanctum` — Autentikasi API
 - **Deployment**: Vercel / Web Server
-
----
-
-## 🚀 Panduan Instalasi (Local Development)
-
-### 1. Prerequisites
-Pastikan kamu telah menginstal:
-- PHP >= 8.2
-- Composer
-- Node.js & NPM
-- MySQL / MariaDB
-
-### 2. Langkah Instalasi
-
-1. **Klon repositori ini:**
-   ```bash
-   git clone [https://github.com/username/artisys.git](https://github.com/username/artisys.git)
-   cd artisys
